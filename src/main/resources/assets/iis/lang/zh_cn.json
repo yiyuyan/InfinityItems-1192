@@ -1,0 +1,4 @@
+{
+  "commands.iis.empty": "主手或副手物品为空。",
+  "commands.iis.cannot_xp": "需要至少 {x} 经验才能够使用此指令。"
+}

@@ -1,0 +1,4 @@
+{
+  "commands.iis.empty": "Main item/Off main item is empty.",
+  "commands.iis.cannot_xp": "Requires at least {x} experience to be able to use this command."
+}
